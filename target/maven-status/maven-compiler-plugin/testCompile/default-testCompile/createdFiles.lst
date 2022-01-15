@@ -1,0 +1,7 @@
+discovery\vitality\testcases\VerifyDiscoveryBank_URL.class
+discovery\vitality\testcases\VerifyForgotUsername_Link.class
+discovery\vitality\testcases\VerifyRegisteringAUser.class
+discovery\vitality\testcases\VerifyForgotPassword_Link.class
+discovery\vitality\testcases\TC01_SearchAndVerifyFirstResult.class
+discovery\vitality\testcases\VerifySearchFunctionalityTest.class
+discovery\vitality\testcases\VerifyUserLogIn.class

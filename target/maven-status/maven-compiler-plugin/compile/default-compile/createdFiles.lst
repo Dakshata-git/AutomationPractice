@@ -1,0 +1,10 @@
+discovery\vitality\pageobject\LogInPage.class
+discovery\vitality\pageobject\RegistrationPage.class
+discovery\vitality\pageobject\SearchFunctionality.class
+discovery\vitality\pageobject\TestClass.class
+discovery\vitality\util\AllureListener.class
+discovery\vitality\util\TestDataProvider.class
+discovery\vitality\base\TestBase.class
+discovery\vitality\pageobject\BankPage.class
+discovery\vitality\pageobject\ForgotLinksPage.class
+discovery\vitality\pageobject\HomePage.class

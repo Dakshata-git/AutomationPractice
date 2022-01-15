@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.practice.testcases.TC01_SearchAndVerifyFirstResult"></class>
+            <class name="com.practice.testcases.TC02_StoreSearchCriteria"></class>
+            <class name="com.practice.testcases.TC03_SearchDataDriven"></class>
+            <class name="com.practice.testcases.TC04_LoginByGlobalVariable"></class>
+            <class name="com.practice.testcases.TC05_AddToCart"></class>
+            <class name="com.practice.testcases.TC06_CategorySubCategory"></class>
+        </classes>
+    </test>
+</suite>
